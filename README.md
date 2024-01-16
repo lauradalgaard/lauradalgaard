@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<p color: blue> A little bit about me: 
+<p color: blue A little bit about me: 
 * idk
 * idk
 * idk
 * idk 
-</p>
+>
+
